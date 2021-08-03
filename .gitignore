@@ -1,4 +1,7 @@
 *
 !.gitignore
 !.pre-commit-config.yaml
+!*.example
+!brew.bash
+!keybase.bash
 !terraform.bash
