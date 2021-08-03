@@ -5,4 +5,5 @@
 !*.example
 !brew.bash
 !keybase.bash
+!openssl.bash
 !terraform.bash
