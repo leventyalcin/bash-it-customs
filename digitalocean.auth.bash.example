@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+export DIGITALOCEAN_TOKEN=''
+
+export DO_API_KEY=''
+export DO_API_SECRET=''
